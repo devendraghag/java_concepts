@@ -1,0 +1,12 @@
+
+W
+java:S1854"5Remove this useless assignment to local variable "n".(À”˜ıÿÿÿÿ8ÓÃ£‚2
+H
+java:S1481"&Remove this unused "n" local variable.(À”˜ıÿÿÿÿ8 ÓÃ£‚2
+Z
+java:S1854"8Remove this useless assignment to local variable "data".(éòïóşÿÿÿÿ8¡ÓÃ£‚2
+L
+java:S1197
+"*Move the array designators [] to the type.(¡şÏÖøÿÿÿÿ8£ÓÃ£‚2
+K
+java:S1481")Remove this unused "data" local variable.(éòïóşÿÿÿÿ8£ÓÃ£‚2

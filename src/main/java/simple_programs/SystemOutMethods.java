@@ -3,7 +3,7 @@ package simple_programs;
 import java.util.Scanner;
 
 public class SystemOutMethods {
-    public static void main(String[] args) {
+    public static void main(String... args) {
         Scanner scanVariable = new Scanner(System.in);
         String variableStoringInput = "";
         System.out.print("Enter something: \n");
@@ -19,7 +19,7 @@ public class SystemOutMethods {
             System.out.println("Output operations were successful.");
         }
         // Simulate an error scenario by closing the stream
-    //    System.out.close(); // it will close the operation
+        //    System.out.close(); // it will close the operation
         System.out.flush(); // typically its unbuffered here but in other case flush means forcefully action
 
         // Formatting integers
