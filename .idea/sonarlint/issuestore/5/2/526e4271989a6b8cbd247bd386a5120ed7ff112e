@@ -1,0 +1,9 @@
+
+t
+java:S2293C"YReplace the type specification in this constructor call with the diamond operator ("<>").(½ÈÌÅûÿÿÿÿ
+g
+java:S1104"QMake title a static final constant or non-public and provide accessors if needed.(Å¬õ
+h
+java:S1104"RMake author a static final constant or non-public and provide accessors if needed.(ÌÊß›
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(°’¸¤ûÿÿÿÿ
+E	java:S106W"+Replace this use of System.out by a logger.(»Âœ°ûÿÿÿÿ

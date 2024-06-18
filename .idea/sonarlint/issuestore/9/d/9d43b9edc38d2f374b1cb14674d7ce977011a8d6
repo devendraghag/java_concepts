@@ -1,0 +1,16 @@
+
+o
+java:S2293e"YReplace the type specification in this constructor call with the diamond operator ("<>").(îù¡•
+t
+java:S2293m"YReplace the type specification in this constructor call with the diamond operator ("<>").(•ïùÿÿÿÿ
+o
+java:S2293x"YReplace the type specification in this constructor call with the diamond operator ("<>").(–ãÖ¸
+f	java:S117e"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(îù¡•
+k	java:S117l"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ß¹‰øıÿÿÿÿ
+k	java:S117u"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(šÛ¦Êıÿÿÿÿ
+e	java:S117v"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ê‘“`
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(íÁôŒúÿÿÿÿ
+A
+java:S1481N"&Remove this unused "s" local variable.(„°®Õúÿÿÿÿ
+F	java:S106€"+Replace this use of System.out by a logger.(£°‰ãøÿÿÿÿ
+F	java:S106„"+Replace this use of System.out by a logger.(¾˜İØúÿÿÿÿ
